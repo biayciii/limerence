@@ -66,6 +66,14 @@ const users = [
         Tháng vừa qua cũng không mắn cho anh vì công việc không như mong muốn, nhưng dẫu sao anh vẫn có em luôn an ủi động viên anh. Mong rằng tháng sau, may mắn sẽ đến với anh hơn một chút. Tháng 4 tháng của con cá, tháng là lời nói dối nhưng anh không biết nói dối. You never walk alone, những con cá sẽ phải chả gió.
         Một lần nữa, yêu em châu, em mỹ vân, em nguyễn diệu châu nhiều lắm.`,
         code: "03042026"
+      },
+      {
+        title: "30042026: Kỉ niệm một năm ôm nhau 😊😀🥰😘🐃🐂🐃🐂",
+        content: `30 tháng 4 ngày giải phóng đất nước vào những năm 1975 miền nam đã được giải phóng và thống nhất đất nước, và đó cũng là ngày chúng ta đã yêu nhau tròn một năm. Một năm vừa qua chúng ta có đầy ắp những kỉ niệm như là đi tô tượng, chơi game, nhất là khi mới yêu được hai tháng mà em đã rủ anh đi du lịch :))) anh kiểu :"mie sao đã rủ đi rồi nhanh thế" rồi tình cảm của chúng ta cũng đã lớn dần theo thời gian, chúng ta đã hiểu về hoàn cảnh sống, tính cách và rồi cả 2 cũng dần được thấu hiểu cho nhau hơn dù có những lần anh làm em tổn thương lớn khiến em phải nó ra những lời lẽ không hay. 
+        Anh cũng đã đân sửa đi lỗi làm đấy, anh muốn mình phải có trách nhiệm hơn trong chuyện tình cảm của chúng ta, anh không muốn bỏ rơi em vì những chuyện buồn đấy mặc dù dôi khi cũng muốn dừng lại thật vì một phần cảm thấy anh đã làm em hết hi vọng. Nhưng mà sau khi mà giải quyết xong mọi chuyện rồi gặp lại em, em chạy đến ôm anh như con bé 10 tuổi chạy đến vậy :))), anh lại thấy có một chút niềm tin để có được một năm ngày hôm nay.
+        Vậy là một năm của chúng ta cũng đã trôi đi với 7 vạn cảm xúc khác nhau, nhưng dù sao được trải qua những cảm xúc dó rồi chúng ta lại ôm nhau thơm má và sờ đã là mộ niềm vui hạnh phúc với chúng ta rồi.
+        Mong rằng sẽ có về 2 năm, 3 năm , cho đến khi không còn yêu nữa cho đến khi mà anh lấy em về làm vợ anh 😀😊. Happy aniversary one year, love you 🐃🐃🐃😊😊😊.`,
+        code: "3004026"
       }
     ]
   }
