@@ -73,7 +73,7 @@ const users = [
         Anh cũng đã đân sửa đi lỗi làm đấy, anh muốn mình phải có trách nhiệm hơn trong chuyện tình cảm của chúng ta, anh không muốn bỏ rơi em vì những chuyện buồn đấy mặc dù dôi khi cũng muốn dừng lại thật vì một phần cảm thấy anh đã làm em hết hi vọng. Nhưng mà sau khi mà giải quyết xong mọi chuyện rồi gặp lại em, em chạy đến ôm anh như con bé 10 tuổi chạy đến vậy :))), anh lại thấy có một chút niềm tin để có được một năm ngày hôm nay.
         Vậy là một năm của chúng ta cũng đã trôi đi với 7 vạn cảm xúc khác nhau, nhưng dù sao được trải qua những cảm xúc dó rồi chúng ta lại ôm nhau thơm má và sờ đã là mộ niềm vui hạnh phúc với chúng ta rồi.
         Mong rằng sẽ có về 2 năm, 3 năm , cho đến khi không còn yêu nữa cho đến khi mà anh lấy em về làm vợ anh 😀😊. Happy aniversary one year, love you 🐃🐃🐃😊😊😊.`,
-        code: "3004026"
+        code: "30042026"
       }
     ]
   }
