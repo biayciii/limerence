@@ -74,6 +74,12 @@ const users = [
         Vậy là một năm của chúng ta cũng đã trôi đi với 7 vạn cảm xúc khác nhau, nhưng dù sao được trải qua những cảm xúc dó rồi chúng ta lại ôm nhau thơm má và sờ đã là mộ niềm vui hạnh phúc với chúng ta rồi.
         Mong rằng sẽ có về 2 năm, 3 năm , cho đến khi không còn yêu nữa cho đến khi mà anh lấy em về làm vợ anh 😀😊. Happy aniversary one year, love you 🐃🐃🐃😊😊😊.`,
         code: "30042026"
+      },
+      {
+        title: "04062026: em châu yêu quý 🥰🐃🐂",
+        content: `Vậy là một tháng 5 trôi qua đi trong những ngày học kết thúc môn và bắt đầu đón những ngày nắng nóng của tháng hè. Một tháng đầy ắp tiếng cười, hòa bình, hạnh phúc bởi vì anh là một người đàn ông đích thực, mà đàn ông đích thực là phải có tình yêu thương với vợ con mình các cụ bảo rồi: "một ngày vợ vui, cả ngày hạnh phúc". Rồi chúng ta cũng có ít ngày ở bên nhau hơn vì anh đã bắt đầu vào con đường lao động, nhưng những ngày được ở cạnh em anh cảm thấy rất vui dù em hay sờ chim anh nhiều hơn :)). Tháng này cũng êm ấm nên là không có content buồn buồn rồi, chán thế. Thôi mong tháng sau không có, hoặc là mãi mãi
+        để tình cảm cứ yên bình thôi :))). Mong tháng sau vợ con thi điểm như í muốn, ngủ sớm đi nhé :((. Chào tạm biệt vợ con, hẹn gặp lại lần sau 🫡🫡🫡`,
+        code: "04062026"
       }
     ]
   }
