@@ -80,6 +80,17 @@ const users = [
         content: `Vậy là một tháng 5 trôi qua đi trong những ngày học kết thúc môn và bắt đầu đón những ngày nắng nóng của tháng hè. Một tháng đầy ắp tiếng cười, hòa bình, hạnh phúc bởi vì anh là một người đàn ông đích thực, mà đàn ông đích thực là phải có tình yêu thương với vợ con mình các cụ bảo rồi: "một ngày vợ vui, cả ngày hạnh phúc". Rồi chúng ta cũng có ít ngày ở bên nhau hơn vì anh đã bắt đầu vào con đường lao động, nhưng những ngày được ở cạnh em anh cảm thấy rất vui dù em hay sờ chim anh nhiều hơn :)). Tháng này cũng êm ấm nên là không có content buồn buồn rồi, chán thế. Thôi mong tháng sau không có, hoặc là mãi mãi
         để tình cảm cứ yên bình thôi :))). Mong tháng sau vợ con thi điểm như í muốn, ngủ sớm đi nhé :((. Chào tạm biệt vợ con, hẹn gặp lại lần sau 🫡🫡🫡`,
         code: "04062026"
+      },
+      {
+        title: "05072026: hello vợ yếu 🐃😊😘",
+        content: `Nhanh thật đấy, đã qua tháng 6 rồi, chớp mắt cái thôi là đã đến mùa hè rồi. Mặc dù có cái nóng mùa hè, nhưng tình cảm của chúng ta vẫn rất nóng bỏng, nồng nhiệt nhu thời tiết Hà Nội. Hm.... Tháng này chúng ta vẫn yên bình siuuuuuu, nhưng mà anh được bên em nhiều hơn hihihi. Nhưng mà tháng sau em đi chơi rồi :( có lẽ anh sẽ phải cô dơn nhìn em hạnh phúc ở thế giới mới. Nhưng thôi, đành để dành vào tháng 8 chúng ta đi chơi nhé hihii
+        `,
+        code: "05072027"
+      },
+      {
+        title: "30072026: nhớ em :(",
+        content: `Đã sắp hết tháng 7 rồi và anh cảm thấy nhớ em rất nhiều, và tháng 8 em lại đi chơi tiếp :( trông buồn v nhưng thôi có lẽ đợi thêm một chút nữa là được gặp em rồi, gặp thơm cái rồi về :)`
+        , code: "30072026"
       }
     ]
   }
