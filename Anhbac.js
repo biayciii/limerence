@@ -91,6 +91,12 @@ const users = [
         title: "30072026: nhớ em :(",
         content: `Đã sắp hết tháng 7 rồi và anh cảm thấy nhớ em rất nhiều, và tháng 8 em lại đi chơi tiếp :( trông buồn v nhưng thôi có lẽ đợi thêm một chút nữa là được gặp em rồi, gặp thơm cái rồi về :)`
         , code: "30072026"
+      },
+      {
+        title: "31082026 Vẫn nhớ",
+        content: `Có những thứ những tưởng sẽ mất đi, và có những lời hứa mục đích còn đang dang dở. Vào những ngày khó khăn trong tình yêu chúng ta có những quyết định đi đến điểm cuối con đường. Có những suy nghĩ khiến cho anh nghĩ mình có thể kết thúc và chuẩn bị thay đổi những thói quen thường ngày. Anh biết trong suy nghĩ của em, em muốn dừng lại để tốt cho cả hai ta, cho hành trình riêng sau này và cũng vì ảnh hưởng của tâm lí. Anh không biết mình có cố chấp trong chuyện này hay không nữa, và không biết chừng tương lai của chúng ta cũng lại giống như những tháng vừa qua. Nhắm mắt và ngủ dậy lại thấy một bầu trời mới nhưng không biết sau những cơn mưa liệu còn có cầu vồng xuất hiện hay không, hay chỉ là một sự cố chấp để rồi dành phải chấp nhận thực tế đã có từ trước. Nhưng dù sao chúng ta vẫn yêu nhau, vẫn quan tâm và đồng hành cùng nhau ở hiện tại. Anh nghĩ bản thân có thể ở bên để có thể giúp em ổn định tâm lí để sau này khi ở một mình em có thể trở nên mạnh mẽ hơn như trước. Dù sao thì anh vẫn ở bên cạnh em mà, cứ yêu đi đã, còn sau này không có ở bên nhau hay không thì ... `
+        , code : "31082026"
+
       }
     ]
   }
